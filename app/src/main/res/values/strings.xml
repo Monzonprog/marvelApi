@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="public_key_marvel_developer">445b6c472dcaadf8deb72b40bf7ddf36</string>
+    <string name="private_key_marvel_developer">d71559e8e20ff850e384c75302b91612888deff1</string>
+    <string name="hash">8ddad761e0bb8bbb8460c74b5562ed36</string>
+    <string name="ts">1</string>
+    <string name="marvel_api_base_url">https://gateway.marvel.com/</string>
+</resources>
